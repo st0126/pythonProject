@@ -1,0 +1,2 @@
+MAIN_001 : [PASS] 로그인 페이지 이동
+MAIN_002 : [FAIL] fail test
